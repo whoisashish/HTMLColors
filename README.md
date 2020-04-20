@@ -6,3 +6,5 @@
   1. HTML<br>
   2. CSS<br>
   3. JavaScript (DOM)<br>
+<h2>The Future Plans</h2>
+<p>Will surely add My own version of the Game Hex Invaders to this.</p>
