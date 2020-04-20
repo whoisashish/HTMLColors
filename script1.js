@@ -15,3 +15,13 @@ css.textContent = bg.style.background + ";";
 color1.addEventListener("input",changeColor);
 
 color2.addEventListener("input",changeColor);
+
+document.getElementById('normal').addEventListener('click',function(){
+    document.getElementById('firstone').style.display = 'block';
+    document.getElementById('secondpicker').style.display = 'none';
+});
+
+document.getElementById('gradient').addEventListener('click',function(){
+    document.getElementById('firstone').style.display = 'none';
+    document.getElementById('secondpicker').style.display = 'block';
+});
