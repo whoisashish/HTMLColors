@@ -1,7 +1,7 @@
 # HTML Colors 
 <p>HTML Colors was created after not finding a proper place for getting good gradient color scheme for My portfolio.</p>
 <p>You can use it at: <a href="https://www.htmlcolors.ml/">HTMLColor</a></p>
-# Methods
+<h2>The Hi-Tech</h2>
 <p>Built using all basic features of web Development, nothing fancy here.<br>
   1. HTML<br>
   2. CSS<br>
